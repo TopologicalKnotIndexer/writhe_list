@@ -44,7 +44,7 @@ If you use this repository in academic work, please cite it as:
 
 ```bibtex
 @software{topologicalknotindexer_writhe_list,
-  author = {{TopologicalKnotIndexer contributors}},
+  author = {{GGN\_2015}},
   title = {{writhe\_list}},
   year = {2026},
   url = {https://github.com/TopologicalKnotIndexer/writhe_list}
